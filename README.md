@@ -6,3 +6,5 @@ The aim of this project was to use the game as a base for Game Metrics, such as 
 
 
 Developed in Unity3D.
+
+Showcase: [Youtube](https://youtu.be/PEaXGRy39_I "Prototype Showcase")
